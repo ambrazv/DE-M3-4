@@ -1,0 +1,1 @@
+Python permite que los desarrolladores sean más productivos, ya que pueden escribir un programa de Python con menos líneas de código en comparación con muchos otros lenguajes. Python cuenta con una gran biblioteca estándar que contiene códigos reutilizables para casi cualquier tarea.
